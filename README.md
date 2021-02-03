@@ -1,4 +1,4 @@
-# My-start-project (2021년도 방학)
+# My-start-project (2021년 목표)
 
 #공부분야
 1. 머신러닝 (후에는 딥러닝을 활용한 이미지 처리와 object traking 구현을 해볼 예정) 
